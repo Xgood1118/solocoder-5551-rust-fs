@@ -1,0 +1,8 @@
+﻿cargo :    Compiling sync v0.1.0 (C:\Users\鐧戒笢閼玕work01\SoloCoder\5551-rust-fs)
+所在位置 行:1 字符: 49
++ ... c:\Users\白东鑫\work01\SoloCoder\5551-rust-fs ; cargo build 2>&1 | Out-F ...
++                                                  ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (   Compiling sy...r\5551-rust-fs):String) [], RemoteEx 
+   ception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
